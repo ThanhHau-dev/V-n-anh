@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sanpham{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    object-fit: fill;
+    width: 10%;
+    padding: 10px;
+}
+
+span{
+    color: red;
+}
+
